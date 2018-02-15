@@ -15,4 +15,4 @@ Additional notes I may add [here](Documentation/notes.md).
 
 # Preview / Run 
 
-*GitHub-Pages-Link may be added here later by me*
+[Click here to see the result](https://stho32.github.io/ServiceSchedule/Source/index.html)
