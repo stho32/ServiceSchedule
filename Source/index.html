@@ -68,6 +68,7 @@
             let date = startDate;
             let dayCount  = ko.unwrap(this.dayCount);
             console.log(dayCount);
+            
             for (let i = 0; i < dayCount; i++) {
               allDays.push({ name: formatDateOutput(date) })
               date.setDate(date.getDate() + 1);
